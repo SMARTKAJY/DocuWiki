@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "isbn": "123456789",
+        "published_date": "1943-04-06",
+        "pages": 96,
+        "cover": "./Assets/img/obito.jpg",
+        "language": "French",
+        "path":"./Assets/pdf/How to Call an API in JavaScript – with Examples.pdf"
+    },
+    {
+        "id": 2,
+        "title": "Anjely",
+        "author": "George Orwell",
+        "isbn": "987654321",
+        "published_date": "1949-06-08",
+        "pages": 328,
+        "cover": "./Assets/img/obito.jpg",
+        "language": "English",
+        "path":"./Assets/pdf/Qu'est-ce qu'une API _.pdf"
+    }
+]
